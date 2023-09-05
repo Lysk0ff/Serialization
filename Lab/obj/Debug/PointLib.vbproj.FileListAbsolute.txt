@@ -1,0 +1,2 @@
+C:\Users\darkm\source\repos\Lab\obj\Debug\PointLib.vbproj.AssemblyReference.cache
+C:\Users\darkm\source\repos\Lab\obj\Debug\PointLib.vbproj.GenerateResource.cache

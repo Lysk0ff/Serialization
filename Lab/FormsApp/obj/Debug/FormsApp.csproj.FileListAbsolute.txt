@@ -1,0 +1,17 @@
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.pdb
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\PointLib.dll
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\PointLib.pdb
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\PointLib.xml
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.PointForm.resources
+C:\Users\darkm\source\repos\Lab\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darkm\source\repos\Lab\FormsApp\bin\Debug\Newtonsoft.Json.xml
